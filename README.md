@@ -26,7 +26,7 @@ Check out some of my projects:
 - Connect with me on [LinkedIn](https://linkedin.com/in/dave-andrew-nathaniel/)
 
 
-Check Out My Recent Article [Here!](https://medium.com/@daveandrewnathaniel48/master-kubernetes-step-by-step-guide-to-setting-up-your-own-fully-functional-kubernetes-07980cc66298)
+Check Out My Recent Article About Kubernetes [Here!](https://medium.com/@daveandrewnathaniel48/master-kubernetes-step-by-step-guide-to-setting-up-your-own-fully-functional-kubernetes-07980cc66298)
 
 
 Thanks for stopping by! 😊
