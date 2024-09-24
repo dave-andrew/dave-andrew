@@ -22,6 +22,6 @@ Check out some of my projects:
 
 ### Get in Touch
 - 📫 You can reach me at: [daveandrewnathaniel48@gmail.com](mailto:daveandrewnathaniel48@gmail.com)
-- Connect with me on [LinkedIn](https://linkedin.com/in/dave-andrew-nathaniel/).
+- Connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/dave-andrew-nathaniel/)
 
 Thanks for stopping by! 😊
