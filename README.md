@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**dave-andrew/dave-andrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### About Me
+- 🔭 I’m currently focused on enhancing my Kubernetes architecture skills.
+- 🌱 I’m actively learning about Kubernetes and exploring the fascinating world of Artificial Intelligence.
+- 💬 Feel free to ask me anything related to Kubernetes—I’m here to help!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+Check out some of my projects:
+- [Kubernetes Architecture](#): Making a Kubernetes Cluster for a production environment
+- [Kubernetes Setup Documentation](https://davenathaniell.notion.site/Kubernetes-Walkthrough-1ec008a069244dd4b0de9b7d51cc7410): Documentation of tools for my personal Kubernetes Architecture Setup
+  
+### Skills
+- Kubernetes
+- Tools Related with Kubernetes Architecture
+- Docker
+- Cloud Infrastructure
+- Artificial Intelligence
+- CI/CD Pipelines with Github Actions and Jenkins
+
+### Get in Touch
+- 📫 You can reach me at: [daveandrewnathaniel48@gmail.com](mailto:daveandrewnathaniel48@gmail.com)
+- Connect with me on [LinkedIn](https://linkedin.com/in/dave-andrew-nathaniel/).
+
+Thanks for stopping by! 😊
