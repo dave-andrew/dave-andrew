@@ -15,11 +15,11 @@ Check out some of my projects:
 ### Skills
 - Kubernetes
 - Tools Related with Kubernetes Architecture
+- Serverless Kubernetes
 - Docker
 - Cloud Infrastructure
 - Artificial Intelligence
 - CI/CD Pipelines with Github Actions and Jenkins
-- Serverless
 
 ### Get in Touch
 - 📫 You can reach me at: [daveandrewnathaniel48@gmail.com](mailto:daveandrewnathaniel48@gmail.com)
