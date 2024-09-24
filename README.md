@@ -25,7 +25,8 @@ Check out some of my projects:
 - 📫 You can reach me at: [daveandrewnathaniel48@gmail.com](mailto:daveandrewnathaniel48@gmail.com)
 - Connect with me on [LinkedIn](https://linkedin.com/in/dave-andrew-nathaniel/)
 
-### Check Out My Recent Arcticle
-[Click Here!](https://medium.com/@daveandrewnathaniel48/master-kubernetes-step-by-step-guide-to-setting-up-your-own-fully-functional-kubernetes-07980cc66298)
+
+Check Out My Recent Article [Here!](https://medium.com/@daveandrewnathaniel48/master-kubernetes-step-by-step-guide-to-setting-up-your-own-fully-functional-kubernetes-07980cc66298)
+
 
 Thanks for stopping by! 😊
