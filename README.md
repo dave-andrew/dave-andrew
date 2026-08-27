@@ -14,8 +14,9 @@ Check out some of my projects:
 - [Google Cloud Platform Documentation](https://davenathaniell.notion.site/Google-Cloud-Platform-121b101a8c0280a88da9d9244790aafa?pvs=4): Documentation on what I learn on GCP Cloud Service.
   
 ### Skills
-- Google Cloud Platform
+- AWS
 - Azure
+- System Design
 - Kubernetes
 - Tools Related with Kubernetes Architecture
 - Serverless Kubernetes
